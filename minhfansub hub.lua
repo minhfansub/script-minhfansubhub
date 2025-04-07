@@ -311,7 +311,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://github.com/minhfansub/main/archive/refs/heads/main.zip"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/minhfansub/main/refs/heads/main/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Minhfansub Hub",
     SubTitle = "Blox Fruit",
