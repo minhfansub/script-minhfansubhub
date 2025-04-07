@@ -2680,7 +2680,7 @@ v16.Home:AddButton({
     Title = "Discord",
     Description = "Giao Lưu",
     Callback = function()
-        setclipboard("https://discord.gg/tboyroblox");
+        setclipboard("https://discord.gg/cfZrN4bq7w");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
