@@ -1,7 +1,7 @@
 -- https://discord.gg/cfZrN4bq7w
 
 
-shared.LoaderTitle = "theo giõi Minhfansub";
+shared.LoaderTitle = "theo giõi:Minhfansub";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
